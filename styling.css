@@ -51,6 +51,7 @@ body {
 
   .content {
     width: min(30vw,400px);
+    height: min(30vh,400px);
     position: absolute;
     top: 50%;
     left: 3rem;
